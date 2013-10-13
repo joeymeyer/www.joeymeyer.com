@@ -1,3 +1,7 @@
 name: Joey Meyer
+markdown: redcarpet
 pygments: true
 permalink: /blog/:year/:month/:day/:title
+author:
+  name: Joey Meyer
+  email: jmeyer41@gmail.com
