@@ -14,7 +14,7 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-family: Palatino, serif;
   font-size: small;
   text-align: center;
 }
@@ -91,6 +91,23 @@ a:active  {
 
 #home a {
   color: #666a9a;
+}
+
+/*****************************************************************************/
+/*
+/* Content
+/*
+/*****************************************************************************/
+
+#not-found {
+  width: 20em;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+#not-found p {
+  font-size: 110%;
+  text-align: center;
 }
 
 /*****************************************************************************/
@@ -186,16 +203,4 @@ a:active  {
 
 .site .footer .contact a {
   color: #8085C1;
-}
-
-/*****************************************************************************/
-/*
-/* Posts
-/*
-/*****************************************************************************/
-
-/* standard */
-
-#post code {
-  color: #666666;
 }
