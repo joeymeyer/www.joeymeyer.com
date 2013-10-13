@@ -2,6 +2,7 @@ name: Joey Meyer
 markdown: redcarpet
 pygments: true
 permalink: /blog/:year/:month/:day/:title
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'CNAME', 'LICENSE.txt']
 author:
   name: Joey Meyer
   email: jmeyer41@gmail.com
