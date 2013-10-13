@@ -79,7 +79,7 @@ y
 
 It will continue going through all of the posts until there are no more or you type `exit`. Then open up Day One and all of your new entries will be there.
 
-<img src="/img/tumblr_to_dayone.png" style="display: block; margin-left: auto; margin-right: auto;" width=640 height=765 />
+<img src="/img/tumblr_to_dayone.png" style="max-width: 100%; width: auto; height: auto;" />
 
 This worked great for me, I was able to import all my blog posts from my Europe trip to my journal. Hope you guys can find a use for it as well. If you have questions or have feedback [send me an email](mailto:contact@joeymeyer.com).
 
