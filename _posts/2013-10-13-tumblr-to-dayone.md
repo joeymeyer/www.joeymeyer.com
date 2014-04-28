@@ -13,7 +13,9 @@ A few months ago I realized it would be great to include the posts from the Tumb
 
 It should work with all Tumblr blogs, and it's easy to use. You just need Day One installed on your Mac along with the [Day One CLI](https://dayone.zendesk.com/hc/en-us/articles/200258954-Day-One-Tools). To get started just:
 
-  `$ gem install tumblr_to_dayone`
+{% highlight bash %}
+$ gem install tumblr_to_dayone
+{% endhighlight %}
   
 Once installed you can start it. I'll show you how to add posts from the [official Tumblr blog (staff.tumblr.com)](http://staff.tumblr.com) in this example:
 
