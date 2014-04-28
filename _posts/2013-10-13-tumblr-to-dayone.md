@@ -19,21 +19,13 @@ Once installed you can start it. I'll show you how to add posts from the [offici
 
 {% highlight bash %}
 $ tumblr_to_dayone
-
 What is the name of your tumblr blog? (<name>.tumblr.com)
-
 staff     # staff.tumblr.com
-
 What is the password of your tumblr blog? (leave blank if none)
-
           # left blank because it's a publis blog
-
 Automatically add all blog posts? (y/n)
-
 n         # if you choose 'y' it will automatically add all of your posts
-
 What is the location of your Dayone.journal? (leave blank if it is in the default location)
-
           # left blank because I want to add the posts to the journal currently used by the Day One app
 {% endhighlight %}
 
@@ -41,40 +33,26 @@ After this step it will ask you one by one if you would like to add each post as
 
 {% highlight bash %}
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
 Tumblr post created on 2013-10-10 04:33:28 +0800
-
 title: <no title>
-
 photo: true
-
 body:
 
 새소식!
 
-
 Tumblr is live in Korean!
-
 
 Now you can blog in thirteen languages — just switch your settings [here](https://www.tumblr.com/settings).
 
-
 For updates about Tumblr in Korean [follow our newest Staff blog](http://hangulteam.tumblr.com/).
-
 
 대박!
 
-
 \#features
-
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
 Would you like to add this post to Day One? (y: yes, s: yes and star it, n: no, exit: exit the prompt)
-
 y
-
 ...
-
 {% endhighlight %}
 
 It will continue going through all of the posts until there are no more or you type `exit`. Then open up Day One and all of your new entries will be there.
