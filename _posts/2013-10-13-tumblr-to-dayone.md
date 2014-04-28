@@ -24,7 +24,7 @@ $ tumblr_to_dayone
 What is the name of your tumblr blog? (<name>.tumblr.com)
 staff     # staff.tumblr.com
 What is the password of your tumblr blog? (leave blank if none)
-          # left blank because it's a publis blog
+          # left blank because it's a public blog
 Automatically add all blog posts? (y/n)
 n         # if you choose 'y' it will automatically add all of your posts
 What is the location of your Dayone.journal? (leave blank if it is in the default location)
