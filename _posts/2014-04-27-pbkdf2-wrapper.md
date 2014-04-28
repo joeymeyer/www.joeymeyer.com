@@ -10,7 +10,7 @@ Last weekend I was messing around and [reading up](https://www.mikeash.com/pyblo
 From the docs:
 > Common Crypto provides low-level C support for encryption and decryption. Common Crypto is not as straightforward as Security Transforms, but provides a wider range of features, including additional hashing schemes, cipher modes, and so on.
 
-The way I learn learn best to actually use the tool I am trying to learn to build something meaningful. Since `CommonCrypto` is all "low-level C" I decided to take the [PBKDF2 algorithm](http://blog.agilebits.com/2011/05/05/defending-against-crackers-peanut-butter-keeps-dogs-friendly-too/) from it an build a higher level Objective C interface for it.
+The way I learn learn best to actually use the tool I am trying to learn, and even better, to build something meaningful using it. Since `CommonCrypto` is all "low-level C" I decided to take the [PBKDF2 algorithm](http://blog.agilebits.com/2011/05/05/defending-against-crackers-peanut-butter-keeps-dogs-friendly-too/) from it an build a higher level Objective C interface for it.
 
 After some experimenting I outlined a few classes, and wrote out a consise API that provides flexibility and some additional benefits on top of the C implementation.
 
