@@ -14,6 +14,6 @@ The way I learn learn best to actually use the tool I am trying to learn to buil
 
 After some experimenting I outlined a few classes, and wrote out a consise API that provides flexibility and some additional benefits on top of the C implementation.
 
-I was happy with how it turned out so I wrote some tests and turned it into a [`CocoaPod`](http://cocoapods.org). If you want to use it simply add `pod PBKDF2-Wrapper` to your `Podfile`.
+I was happy with how it turned out so I wrote some tests and turned it into a [`CocoaPod`](http://cocoapods.org). If you want to use it simply add `pod 'PBKDF2-Wrapper'` to your `Podfile`.
 
 The project is [hosted on GitHub](https://github.com/joeymeyer/PBKDF2-Wrapper) and available under the MIT License. Please feel free to experiment with it yourself and [let me know what you think](mailto:contact@joeymeyer.com).
