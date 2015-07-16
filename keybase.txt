@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/joeymeyer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.joeymeyer.com
+  * I am joeymeyer (https://keybase.io/joeymeyer) on keybase.
+  * I have a public key with fingerprint 452C 4AC0 E213 EE1F 2912  9183 E2DD 5AA1 6332 CCC1
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "452c4ac0e213ee1f29129183e2dd5aa16332ccc1",
+            "host": "keybase.io",
+            "key_id": "e2dd5aa16332ccc1",
+            "kid": "01016d7142a1d74454556982424485fb0d65cd4b7f6370ad3e1fd0bcbd83ba0ebc870a",
+            "uid": "5057f43d5a0091932c06288721135e19",
+            "username": "joeymeyer"
+        },
+        "service": {
+            "hostname": "www.joeymeyer.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1437017105,
+    "expire_in": 157680000,
+    "prev": "4cf3f7e880be967361044e7e28f4f6cfea0d0ee4e756af8ab3fdbfaa79528f64",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.20
+Comment: https://keybase.io/crypto
+
+yMIjAnicbZJ7SBRBHMfvyl5qIT2I6o9iU3pd18y+7xLCSJOioijofc3uzthmt3vu
+nXdenlkkFRL0wghCk+wJBQWlnJhcFmWW2rs4Igx6B5EVBUFns0f1V8PAMN/5/L6/
+329mbowc7Mh03kbkSWzftTPOO9eKyh2rzuSOrmQUU4sy3kqmFKcXohsl2ApYuhFi
+vAwvsCqPVIBZyGEMCeuBdMocZjVNQAiKHMeqqgoZF7PZDNoR1EZBQezWTarRjU/X
+qPofvjR9ACCAoiZBnkVQk3he4AVB9Mgsz/K8LBAFaKKgarwiEZGTANI4WoQGFFXR
+ZE5BACuqTGVqV562E4AgEZ6juQDwQA9NBkRWliUWQk7A0GODQWwZyI8pvcXEUT+O
+YoupcjFUDusqtu/AbuUPEolE3P8wt2r6qUPAMkOmam6lx5tDoYDXjg5FA2kcK74/
+Rj5FNzR6mTQgjK2gbhqMF1JSDem2M+RpP1CCQHAxuCKgW9in24QgiTKgw06Dw/YT
+qIQjEpZloGCPKHEiBDyPJczKhCeiSjACGsCYSoKIiIwUjmgKQUjyCBQRecZurcww
+Ga9Ey0Ql1DKolxgoVG5hpqojsT7D4cx0DB0yyP4OjswROX8/yYPosIEF61D7jmPh
+6ub21aPfvU+2Ls2pKRzT4ty36QQcd77uaPfqYvBoUXvr3Xh+rOVpTUt897HmhZNv
+r1y/rPRUKth5PfXk0IrvL5Y09TQ1Nu5nd56tTW6/l/38fmf454ab49feW5M9jcRj
+9zveFCSqVs3NG5Dbzq0dU1fRG382qeuL9Lmb9JNfwxsK41OPZ/3ImzzFiO1J9Sen
+eM8fmBRLXGbDn7JSC3oueS9fnJk/arb7YXbtxjZtyd55Ez9s6x37sq6tsXrx8Ej9
+1W8HXx0pflxU34XLXP7kuI4saVZy0IzvBdU3cwuO7M+Y82z+nOl5UenWrqNXGiZc
++Nh5OD9x+mTf6699RuXyt78BwQ8yow==
+=+MqY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joeymeyer
+
+==================================================================
